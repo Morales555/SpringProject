@@ -12,7 +12,7 @@ public class Task
     public Task()
     {
 
-    }s
+    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
